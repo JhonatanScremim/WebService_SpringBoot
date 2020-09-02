@@ -3,8 +3,9 @@ API desenvolvida em Java com Spring Boot, uso de banco de dados H2 e PostreSQL p
 
 # Diagramas: 
 
-![diagrama1](https://user-images.githubusercontent.com/55635031/92011496-8340ff00-ed21-11ea-8c36-87b103dff3a6.PNG)
+![Capturar](https://user-images.githubusercontent.com/55635031/92013104-b3899d00-ed23-11ea-960c-3315aa66a91a.PNG)
 
-![Diagrama2](https://user-images.githubusercontent.com/55635031/92011504-850ac280-ed21-11ea-8fd1-92dea0d2943b.PNG)
+![Capturar78](https://user-images.githubusercontent.com/55635031/92013105-b4baca00-ed23-11ea-81ca-94423b64a5cd.PNG)
+
 
 
